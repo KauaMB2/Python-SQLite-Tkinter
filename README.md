@@ -10,7 +10,6 @@
 <li><font color = "#939"> import </font> <font color = "#008000"> tkinter</font>
 <li><font color = "#939"> import </font> <font color = "#008000"> os </font>
 <li><font color = "#939"> import </font> <font color = "#008000"> messagebox </font>
-<li><font color = "#939"> import </font> <font color = "#008000"> os </font>
 <li><font color = "#939"> import </font> <font color = "#008000"> sqlite3 </font>
 <li><font color = "#939"> import </font> <font color = "#008000"> Error </font>
 </h5>
