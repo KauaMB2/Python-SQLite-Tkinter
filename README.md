@@ -15,15 +15,20 @@
 </h5>
 <h1></h1>
 <h3><font color = "#FF0000"> Imagens: </font></h3>
+<div>
 <h5>
 <li>SQLite:
+  <br>
 <img src="img/imagemBancoDeDados.png" alt="imgSQLite" width = 500>
 <br><br>
 <li>Interface gráfica 1:
+  <br>
 <img src="img/imagemInterfaceGrafica.png" alt="imgTkinter1" width = 500>
 <br><br>
 <li>Interface gráfica 2:
+  <br>
 <img src="img/imagemAtualizar.png" alt="imgTkinter2" width = 500>
+</div>
 <h1></h1>
 </h5>
 <h3><font color = "#FF0000"> Demais avisos: </font></h3>
