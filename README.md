@@ -1,4 +1,3 @@
-
 ![GitHub repo size](https://img.shields.io/github/repo-size/KauaMB2/Python-SQLite-Tkinter?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/KauaMB2/Python-SQLite-Tkinter?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/KauaMB2/Python-SQLite-Tkinter?style=for-the-badge)
