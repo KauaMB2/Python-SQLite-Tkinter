@@ -1,3 +1,10 @@
+
+![GitHub repo size](https://img.shields.io/github/repo-size/KauaMB2/Python-SQLite-Tkinter?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/KauaMB2/Python-SQLite-Tkinter?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/KauaMB2/Python-SQLite-Tkinter?style=for-the-badge)
+![Bitbucket open issues](https://img.shields.io/bitbucket/issues/KauaMB2/Python-SQLite-Tkinter?style=for-the-badge)
+![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/KauaMB2/Python-SQLite-Tkinter?style=for-the-badge)
+
 <center><h1><font color = "#FF0000"> Python: SQLite + Tkinter </font></h1></center>
 <h3><font color = "#FF0000"> Objetivo do projeto: </font></h3>
 <h5>Esse projeto foi feito pensando em fazer a integração de um banco de dados e uma interface gráfica, que possibilita o usuário inserir, deletar, pesquisar e atualizar dados de clientes.
