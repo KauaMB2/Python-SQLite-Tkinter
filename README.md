@@ -26,7 +26,7 @@
 <h5>
 <li>SQLite:
   <br>
-<img src="img/img/imagemBancoDeDados.png" alt="imgSQLite" width = 500>
+<img src="img/imagemBancoDeDados.png" alt="imgSQLite" width = 500>
 <br><br>
 <li>Graphic interface 1:
   <br>
